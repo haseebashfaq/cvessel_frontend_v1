@@ -1,0 +1,71 @@
+[  
+   {  
+      "AIS":{  
+         "MMSI":215096000,
+         "TIMESTAMP":"2018-02-27 17:09:35 UTC",
+         "LATITUDE":36.90773,
+         "LONGITUDE":35.98443,
+         "COURSE":304.0,
+         "SPEED":0.0,
+         "HEADING":193,
+         "IMO":9228801,
+         "NAME":"BALTIC SKY I",
+         "CALLSIGN":"9HCD7",
+         "TYPE":89,
+         "A":152,
+         "B":30,
+         "C":7,
+         "D":20,
+         "DRAUGHT":7.2,
+         "DESTINATION":"CEYHAN",
+         "ETA_AIS":"02-26 17:00",
+         "ETA":"2018-02-26 17:00:00"
+      }
+   },
+   {  
+      "AIS":{  
+         "MMSI":227441980,
+         "TIMESTAMP":"2018-01-30 13:02:58 UTC",
+         "LATITUDE":46.15461,
+         "LONGITUDE":-1.22575,
+         "COURSE":136.8,
+         "SPEED":0.0,
+         "HEADING":511,
+         "IMO":0,
+         "NAME":"CLEMENTINE",
+         "CALLSIGN":"FJVK",
+         "TYPE":60,
+         "A":0,
+         "B":0,
+         "C":0,
+         "D":0,
+         "DRAUGHT":0.0,
+         "DESTINATION":"",
+         "ETA_AIS":"00-00 00:00",
+         "ETA":""
+      }
+   },
+   {  
+      "AIS":{  
+         "MMSI":538003777,
+         "TIMESTAMP":"2018-02-27 06:28:04 UTC",
+         "LATITUDE":20.6638,
+         "LONGITUDE":71.38546,
+         "COURSE":52.1,
+         "SPEED":11.3,
+         "HEADING":53,
+         "IMO":9441271,
+         "NAME":"M/V CANARY",
+         "CALLSIGN":"V7TC3",
+         "TYPE":70,
+         "A":160,
+         "B":30,
+         "C":10,
+         "D":22,
+         "DRAUGHT":12.0,
+         "DESTINATION":"PIPAVAV",
+         "ETA_AIS":"02-27 02:30",
+         "ETA":"2018-02-27 02:30:00"
+      }
+   }
+]

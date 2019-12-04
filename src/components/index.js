@@ -1,0 +1,8 @@
+export { Dashboard } from './Dashboard/Dashboard'
+export { Footer } from './Footer/Footer'
+export { ForgotPassword } from './ForgotPassword/ForgotPassword'
+export { Header } from './Header/Header'
+export { Home } from './Home/Home'
+export { Login } from './Login/Login'
+export { Register } from './Register/Register'
+export { VesselList } from './VesselList/VesselList'
